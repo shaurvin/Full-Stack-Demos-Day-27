@@ -6,5 +6,6 @@
         public string EmpName { get; set; }
         public string Address { get; set; }
         public string City { get; set; }
+          public string zip { get; set; }
     }
 }
